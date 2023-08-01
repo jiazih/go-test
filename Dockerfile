@@ -1,1 +1,1 @@
-FROM docker.io/calico/cni:v3.26.1
+FROM quay.io/cephcsi/cephcsi:v3.9.0
